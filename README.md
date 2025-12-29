@@ -27,7 +27,7 @@ The simulation demonstrates that liability structures drastically alter the moni
 * **Limited Liability** requires **~60% audit probability** to suppress the "Lazy Patcher" strategy.
 * **Joint Liability** achieves the same safety equilibrium with only **~20% audit probability**.
 
-![Efficiency Gap Simulation Result](./efficiency_gap.png)
+![Efficiency Gap Simulation Result](./Efficiency%20Gap.png)
 *Figure 1: Comparison of safe behavior adoption under different audit intensities.*
 
 ---
