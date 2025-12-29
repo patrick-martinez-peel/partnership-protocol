@@ -1,17 +1,3 @@
-Yes, you are ready. Since the files are already there, the links in this README will work instantly.
-
-Here is the **Final Master Version** of the README. It is strictly professional (no emojis), links to your specific files, and includes the image preview code.
-
-### Instructions:
-
-1. Click the **Pencil icon** on your `README.md` file.
-2. **Delete everything** currently in the box.
-3. **Paste** the block below.
-4. Click **Commit changes**.
-
----
-
-```markdown
 # The Partnership Protocol
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -66,7 +52,7 @@ This codebase is designed to be deterministic and reproducible. Running the scri
 
 ### Installation
 ```bash
-git clone [https://github.com/patrick-martinez-peel/partnership-protocol.git](https://github.com/patrick-martinez-peel/partnership-protocol.git)
+git clone https://github.com/patrick-martinez-peel/partnership-protocol.git
 cd partnership-protocol
 pip install -r requirements.txt
 
